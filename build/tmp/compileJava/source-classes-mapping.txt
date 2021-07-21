@@ -4,3 +4,7 @@ one/innovation/digital/list/ExemploVector.java
  one.innovation.digital.list.ExemploVector
 one/innovation/digital/list/Exercicio.java
  one.innovation.digital.list.Exercicio
+one/innovation/digital/queue/ExemploLinkedList.java
+ one.innovation.digital.queue.ExemploLinkedList
+one/innovation/digital/queue/Exercicio.java
+ one.innovation.digital.queue.Exercicio
