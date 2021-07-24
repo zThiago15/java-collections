@@ -24,3 +24,9 @@ one/innovation/digital/queue/Exercicio.java
  one.innovation.digital.queue.Exercicio
 one/innovation/digital/map/Exercicio.java
  one.innovation.digital.map.Exercicio
+one/innovation/digital/comparators/EstudanteIdadeOrdemReversa.java
+ one.innovation.digital.comparators.EstudanteIdadeOrdemReversa
+one/innovation/digital/comparators/Estudante.java
+ one.innovation.digital.comparators.Estudante
+one/innovation/digital/comparators/ComparatorsExampleList.java
+ one.innovation.digital.comparators.ComparatorsExampleList
