@@ -1,18 +1,26 @@
-one/innovation/digital/list/ExemploList.java
- one.innovation.digital.list.ExemploList
-one/innovation/digital/list/ExemploVector.java
- one.innovation.digital.list.ExemploVector
+one/innovation/digital/map/ExemploHashMap.java
+ one.innovation.digital.map.ExemploHashMap
+one/innovation/digital/map/ExemploTreeMap.java
+ one.innovation.digital.map.ExemploTreeMap
+one/innovation/digital/set/Exercicio.java
+ one.innovation.digital.set.Exercicio
+one/innovation/digital/set/ExemploTreeSet.java
+ one.innovation.digital.set.ExemploTreeSet
+one/innovation/digital/map/ExemploMapTable.java
+ one.innovation.digital.map.ExemploMapTable
 one/innovation/digital/list/Exercicio.java
  one.innovation.digital.list.Exercicio
 one/innovation/digital/queue/ExemploLinkedList.java
  one.innovation.digital.queue.ExemploLinkedList
-one/innovation/digital/queue/Exercicio.java
- one.innovation.digital.queue.Exercicio
-one/innovation/digital/set/ExemploHaseSet.java
- one.innovation.digital.set.ExemploHaseSet
+one/innovation/digital/list/ExemploList.java
+ one.innovation.digital.list.ExemploList
 one/innovation/digital/set/ExemploLinkedHashNet.java
  one.innovation.digital.set.ExemploLinkedHashNet
-one/innovation/digital/set/ExemploTreeSet.java
- one.innovation.digital.set.ExemploTreeSet
-one/innovation/digital/set/Exercicio.java
- one.innovation.digital.set.Exercicio
+one/innovation/digital/set/ExemploHaseSet.java
+ one.innovation.digital.set.ExemploHaseSet
+one/innovation/digital/list/ExemploVector.java
+ one.innovation.digital.list.ExemploVector
+one/innovation/digital/queue/Exercicio.java
+ one.innovation.digital.queue.Exercicio
+one/innovation/digital/map/Exercicio.java
+ one.innovation.digital.map.Exercicio

@@ -7,6 +7,7 @@ public class Exercicio {
 
     public static void main(String[] args) {
 
+        //LinkedHashSet -> segue ordem de inserção
         LinkedHashSet<Integer> sequenciaNumerica = new LinkedHashSet<>();
 
         //Adicionando 5 números inteiros(5, 88, 20, 44, 3)
