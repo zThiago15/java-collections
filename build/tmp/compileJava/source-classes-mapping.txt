@@ -1,32 +1,44 @@
 one/innovation/digital/map/ExemploHashMap.java
  one.innovation.digital.map.ExemploHashMap
-one/innovation/digital/map/ExemploTreeMap.java
- one.innovation.digital.map.ExemploTreeMap
+one/innovation/digital/comparators/Estudante.java
+ one.innovation.digital.comparators.Estudante
+one/innovation/digital/comparators/EstudanteIdadeOrdemReversa.java
+ one.innovation.digital.comparators.EstudanteIdadeOrdemReversa
+one/innovation/digital/map/Exercicio.java
+ one.innovation.digital.map.Exercicio
 one/innovation/digital/set/Exercicio.java
  one.innovation.digital.set.Exercicio
 one/innovation/digital/set/ExemploTreeSet.java
  one.innovation.digital.set.ExemploTreeSet
 one/innovation/digital/map/ExemploMapTable.java
  one.innovation.digital.map.ExemploMapTable
+one/innovation/digital/optional/Exercicio.java
+ one.innovation.digital.optional.Exercicio
 one/innovation/digital/list/Exercicio.java
  one.innovation.digital.list.Exercicio
+one/innovation/digital/optional/OptionalExample.java
+ one.innovation.digital.optional.OptionalExample
 one/innovation/digital/queue/ExemploLinkedList.java
  one.innovation.digital.queue.ExemploLinkedList
+one/innovation/digital/comparators/Carro.java
+ one.innovation.digital.comparators.Carro
 one/innovation/digital/list/ExemploList.java
  one.innovation.digital.list.ExemploList
 one/innovation/digital/set/ExemploLinkedHashNet.java
  one.innovation.digital.set.ExemploLinkedHashNet
+one/innovation/digital/comparators/ComparatorsExampleList.java
+ one.innovation.digital.comparators.ComparatorsExampleList
+one/innovation/digital/optional/ExamplePrimitiveOptionals.java
+ one.innovation.digital.optional.ExamplePrimitiveOptionals
 one/innovation/digital/set/ExemploHaseSet.java
  one.innovation.digital.set.ExemploHaseSet
 one/innovation/digital/list/ExemploVector.java
  one.innovation.digital.list.ExemploVector
+one/innovation/digital/map/ExemploTreeMap.java
+ one.innovation.digital.map.ExemploTreeMap
 one/innovation/digital/queue/Exercicio.java
  one.innovation.digital.queue.Exercicio
-one/innovation/digital/map/Exercicio.java
- one.innovation.digital.map.Exercicio
-one/innovation/digital/comparators/EstudanteIdadeOrdemReversa.java
- one.innovation.digital.comparators.EstudanteIdadeOrdemReversa
-one/innovation/digital/comparators/Estudante.java
- one.innovation.digital.comparators.Estudante
-one/innovation/digital/comparators/ComparatorsExampleList.java
- one.innovation.digital.comparators.ComparatorsExampleList
+one/innovation/digital/optional/ExemploOptionalStates.java
+ one.innovation.digital.optional.ExemploOptionalStates
+one/innovation/digital/stream/ExemploStreamAPI.java
+ one.innovation.digital.stream.ExemploStreamAPI
